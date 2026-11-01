@@ -41,5 +41,3 @@ My work spans enterprise AI engineering, agent orchestration, retrieval systems,
 - **Cloud-native AI deployment:** AWS, Azure, Docker, Kubernetes, Helm, Terraform, container orchestration, health checks, monitoring, CI/CD, and production deployment patterns.
 - **Enterprise data and AI integration:** Microsoft Fabric, Snowflake, SQL-based agents, data pipelines, and connecting LLM applications to trusted enterprise data.
 - **Agent design patterns:** Understanding when to use prompt chaining, routing, parallelization, orchestrator-worker, evaluator-optimizer, and autonomous agent loops, including their tradeoffs in cost, latency, complexity, and reliability.
-
-Make my positioning more distinctiveShorten my skills into a sharper profile
